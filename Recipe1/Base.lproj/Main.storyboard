@@ -22,7 +22,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="65d-s7-3mW" id="Nib-p8-rFJ">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
                                 <connections>
@@ -36,7 +36,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Recipes" id="94D-4J-qiQ">
-                        <barButtonItem key="rightBarButtonItem" title="Add" id="lXN-UC-DyV">
+                        <barButtonItem key="rightBarButtonItem" title="+" id="lXN-UC-DyV">
                             <connections>
                                 <segue destination="Yzl-iB-FAF" kind="show" id="ArD-Ji-YSr"/>
                             </connections>
